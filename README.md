@@ -4,7 +4,8 @@
 I’m <a href="https://github.com/Azael-Dev">Azael Dev</a> a Thai guy with a passion for gaming and programming.<br>To be honest, little skill in either category.<br>However, that doesn’t stop me from loving both.
 
 • 💬 Ask me about anything, I am happy to help<br>
-• 📫 How to reach me: <a href="https://discord.gg/Ca5W62f" title=""><img alt="Discord Status" src="https://discord.com/api/guilds/628127171868885014/widget.png"></a><br>
+• 📫 How to reach me: [Discord](https://discord.gg/Ca5W62f)<br>
+<a href="https://discord.gg/Ca5W62f" title=""><img alt="Discord Status" src="https://discord.com/api/guilds/628127171868885014/widget.png"></a>
 
 **Languages and Tools:**
 
