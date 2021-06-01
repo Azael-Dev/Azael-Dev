@@ -3,10 +3,9 @@
 
 I’m <a href="https://github.com/Azael-Dev">Azael Dev</a> a Thai guy with a passion for gaming and programming.<br>To be honest, little skill in either category.<br>However, that doesn’t stop me from loving both.
 
-**Social Network:**
+**Discord Communities:**
 
 <a href="https://discord.gg/Ca5W62f" title=""><img alt="Discord Status" src="https://discord.com/api/guilds/628127171868885014/widget.png"></a>
-<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FAzaelDev.FB&width=74&layout=box_count&action=like&size=large&share=true&height=65&appId=758963898021390" width="74" height="65" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 **Languages and Tools:**
 
