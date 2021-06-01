@@ -1,5 +1,5 @@
 <h2>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Azael-Dev/Azael-Dev/master/code.gif" width="500" height="320" max-width="500" max-height="320" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Azael-Dev/Azael-Dev/master/coding.gif" width="500" height="320" max-width="500" max-height="320" />
 <a href="https://discord.gg/Ca5W62f" title=""><img alt="Discord Status" src="https://discordapp.com/api/guilds/721339695199682611/widget.png"></a>
 
 
