@@ -7,7 +7,7 @@ I’m <a href="https://github.com/Azael-Dev">Azael Dev</a> a Thai guy with a pas
 
 <a href="https://discord.gg/Ca5W62f" title=""><img alt="Discord Status" src="https://discord.com/api/guilds/628127171868885014/widget.png"></a>
 
-**Languages and Tools:**
+**Languages & Tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
