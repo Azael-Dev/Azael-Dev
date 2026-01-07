@@ -63,7 +63,7 @@ I’m <a href="https://www.azael.dev/" target="_blank">Azael Dev</a> a Thai guy 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/svg/svg.png"></code>
 
 
-### Public Project Analytics:
+### Project Analytics:
 
 <a href="https://github.com/Azael-Dev">
   <img height="187" src="https://raw.githubusercontent.com/Azael-Dev/Azael-Dev/master/profile-summary-card-output/github_dark/0-profile-details.svg"/>
