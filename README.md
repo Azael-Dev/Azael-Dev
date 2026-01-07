@@ -66,9 +66,9 @@ I’m <a href="https://www.azael.dev/" target="_blank">Azael Dev</a> a Thai guy 
 ### Project Analytics:
 
 <a href="https://github.com/Azael-Dev">
-  <img height="185" src="https://raw.githubusercontent.com/Azael-Dev/Azael-Dev/master/profile-summary-card-output/github_dark/0-profile-details.svg"/>
-  <img height="185" src="https://raw.githubusercontent.com/Azael-Dev/Azael-Dev/master/profile-summary-card-output/github_dark/3-stats.svg"/>
-  <img height="185" src="https://raw.githubusercontent.com/Azael-Dev/Azael-Dev/master/profile-summary-card-output/github_dark/1-repos-per-language.svg"/>
-  <img height="185" src="https://raw.githubusercontent.com/Azael-Dev/Azael-Dev/master/profile-summary-card-output/github_dark/2-most-commit-language.svg"/>
-  <img height="185" src="https://raw.githubusercontent.com/Azael-Dev/Azael-Dev/master/profile-summary-card-output/github_dark/4-productive-time.svg"/>
+  <img height="180" src="https://raw.githubusercontent.com/Azael-Dev/Azael-Dev/master/profile-summary-card-output/github_dark/0-profile-details.svg"/>
+  <img height="180" src="https://raw.githubusercontent.com/Azael-Dev/Azael-Dev/master/profile-summary-card-output/github_dark/3-stats.svg"/>
+  <img height="180" src="https://raw.githubusercontent.com/Azael-Dev/Azael-Dev/master/profile-summary-card-output/github_dark/1-repos-per-language.svg"/>
+  <img height="180" src="https://raw.githubusercontent.com/Azael-Dev/Azael-Dev/master/profile-summary-card-output/github_dark/2-most-commit-language.svg"/>
+  <img height="180" src="https://raw.githubusercontent.com/Azael-Dev/Azael-Dev/master/profile-summary-card-output/github_dark/4-productive-time.svg"/>
 </a>
