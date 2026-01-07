@@ -2,9 +2,9 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Azael-Dev/Azael-Dev/master/coding.gif" width="500" />
 
-I’m <a href="https://github.com/Azael-Dev">Azael Dev</a> a Thai guy with a passion for gaming and programming.<br>To be honest, little skill in either category.<br>However, that doesn’t stop me from loving both.
+I’m <a href="https://www.azael.dev/" target="_blank">Azael Dev</a> a Thai guy with a passion for gaming and programming.<br>To be honest, little skill in either category.<br>However, that doesn’t stop me from loving both.
 
-<a href="https://discord.azael.dev/" title=""><img alt="Discord Status" src="https://discord.com/api/guilds/628127171868885014/widget.png?style=banner2" width="270"></a>
+<a href="https://discord.azael.dev/" target="_blank"><img alt="Discord Status" src="https://discord.com/api/guilds/628127171868885014/widget.png?style=banner2" width="270"></a>
 
 ### Languages & Tools:
 
@@ -58,7 +58,7 @@ I’m <a href="https://github.com/Azael-Dev">Azael Dev</a> a Thai guy with a pas
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/powershell/powershell.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/rss/rss.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/stack-overflow/stackoverflow.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/stackoverflow/stackoverflow.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/steam/steam.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/svg/svg.png"></code>
 
