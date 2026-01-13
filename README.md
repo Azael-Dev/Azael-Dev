@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Azael-Dev/Azael-Dev/master/coding.gif" width="500">
 
-I’m <a href="https://www.azael.dev/" target="_blank">Azael Dev</a> a Thai guy with a passion for gaming and programming.<br>To be honest, little skill in either category.<br>However, that doesn’t stop me from loving both.
+I’m <a href="https://www.azael.dev/" target="_blank">Azael Dev</a> a Thai guy with a passion for gaming and programming.
 
 <a href="https://discord.azael.dev/" target="_blank"><img alt="Discord Status" src="https://discord.com/api/guilds/628127171868885014/widget.png?style=banner2" width="270"></a>
 
