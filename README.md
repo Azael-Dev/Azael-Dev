@@ -1,6 +1,6 @@
 # Hey there 👋
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Azael-Dev/Azael-Dev/master/coding.gif" width="600">
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Azael-Dev/Azael-Dev/master/coding.gif" width="560">
 
 I’m <a href="https://www.azael.dev/" target="_blank">Azael Dev</a> a Thai guy with a passion for gaming and programming.
 
