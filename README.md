@@ -14,41 +14,58 @@ I’m <a href="https://www.azael.dev/" target="_blank">Azael Dev</a> a Thai guy 
 
 ### Skills & Technologies
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/lua/lua.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/markdown/markdown.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/json/json.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/sql/sql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/sqlite/sqlite.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/express/express.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/jquery/jquery.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/sass/sass.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/tailwind/tailwind.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/npm/npm.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/bun/bun.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/fastify/fastify.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/electron/electron.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/altv/altv.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/discord/discord.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/discord-js/discord-js.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/discord-bots/discord-bots.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/mongoose/mongoose.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/redis/redis.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/github/github.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/github-api/github-api.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/postman/postman.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/terminal/terminal.png"></code>
+<p align="left">
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-1F1F1F?logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Markdown-1F1F1F?logo=markdown&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-0F172A?logo=tailwindcss&logoColor=38BDF8" />
+
+  <!-- Backend / Runtime -->
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-1F1F1F?logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fastify-1F1F1F?logo=fastify&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bun-1F1F1F?logo=bun&logoColor=white" />
+  <img src="https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white" />
+
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-023430?logo=mongodb&logoColor=4DB33D" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
+
+  <!-- Bots / Game / Platform -->
+  <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord_Bots-5865F2?logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord.js-1F1F1F?logo=discord.js&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/FiveM-FF6F00?logo=rockstargames&logoColor=white" />
+  <img src="https://img.shields.io/badge/RedM-8B0000?logo=rockstargames&logoColor=white" />
+  <img src="https://img.shields.io/badge/alt:V-008736?logo=rockstargames&logoColor=white" />
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-1F1F1F?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_API-1F1F1F?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terminal-1F1F1F?logo=gnometerminal&logoColor=white" />
+</p>
 
 ### Profile Statistics
 
