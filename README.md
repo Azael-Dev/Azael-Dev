@@ -1,10 +1,16 @@
 # Hey there 👋
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Azael-Dev/Azael-Dev/master/coding.gif" width="500" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Azael-Dev/Azael-Dev/master/coding.gif" width="500">
 
 I’m <a href="https://www.azael.dev/" target="_blank">Azael Dev</a> a Thai guy with a passion for gaming and programming.<br>To be honest, little skill in either category.<br>However, that doesn’t stop me from loving both.
 
 <a href="https://discord.azael.dev/" target="_blank"><img alt="Discord Status" src="https://discord.com/api/guilds/628127171868885014/widget.png?style=banner2" width="270"></a>
+
+<p align="left">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=21r44vobnaogjj27qnfpr3kuq&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=21r44vobnaogjj27qnfpr3kuq&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark" width="270">
+  </a>
+</p>
 
 ### Skills & Technologies
 
