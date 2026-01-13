@@ -1,10 +1,12 @@
 # Hey there 👋
 
+<p align="left">
+  I'm <a href="https://www.azael.dev/" target="_blank">Azael Dev</a>, a Thai developer passionate about gaming and programming. While I'm still growing my skills, my enthusiasm keeps me constantly learning and improving.
+</p>
+
 <table>
 <tr>
-<td width="50%" valign="top">
-
-I'm <a href="https://www.azael.dev/" target="_blank">Azael Dev</a>, a Thai developer passionate about gaming and programming. While I'm still growing my skills, my enthusiasm keeps me constantly learning and improving.
+<td width="50%" valign="center">
 
 <a href="https://discord.azael.dev/" target="_blank"><img alt="Discord Status" src="https://discord.com/api/guilds/628127171868885014/widget.png?style=banner2" width="270"></a>
 
