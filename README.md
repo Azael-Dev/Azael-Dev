@@ -8,6 +8,8 @@
 <tr>
 <td width="50%" valign="center">
 
+<a href="https://discord.com/users/443334508020891658"><img src="https://lanyard.cnrad.dev/api/443334508020891658?theme=dark&hideActivity=true" width="60%"></a>
+
 <a href="https://discord.azael.dev/" target="_blank"><img alt="Discord Status" src="https://discord.com/api/guilds/628127171868885014/widget.png?style=banner2" width="60%"></a>
 
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=21r44vobnaogjj27qnfpr3kuq&redirect=true">
