@@ -8,10 +8,10 @@
 <tr>
 <td width="50%" valign="center">
 
-<a href="https://discord.azael.dev/" target="_blank"><img alt="Discord Status" src="https://discord.com/api/guilds/628127171868885014/widget.png?style=banner2" width="270"></a>
+<a href="https://discord.azael.dev/" target="_blank"><img alt="Discord Status" src="https://discord.com/api/guilds/628127171868885014/widget.png?style=banner2" width="60%"></a>
 
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=21r44vobnaogjj27qnfpr3kuq&redirect=true">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=21r44vobnaogjj27qnfpr3kuq&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark" width="270">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=21r44vobnaogjj27qnfpr3kuq&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark" width="60%">
 </a>
 
 </td>
