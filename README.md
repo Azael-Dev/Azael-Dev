@@ -31,7 +31,7 @@ I’m <a href="https://www.azael.dev/" target="_blank">Azael Dev</a> a Thai guy 
   
   <!-- Frontend Frameworks & Libraries -->
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-1F1F1F?logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxt.js&logoColor=white" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white" />
@@ -57,7 +57,8 @@ I’m <a href="https://www.azael.dev/" target="_blank">Azael Dev</a> a Thai guy 
   <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" />
   
   <!-- Bot Development -->
-  <img src="https://img.shields.io/badge/Discord.js-5865F2?logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord_API-5865F2?logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord.js-1F1F1F?logo=discorddotjs&logoColor=white" />
   
   <!-- Game Development & Platforms -->
   <img src="https://img.shields.io/badge/FiveM-FF6F00?logo=rockstargames&logoColor=white" />
@@ -72,7 +73,7 @@ I’m <a href="https://www.azael.dev/" target="_blank">Azael Dev</a> a Thai guy 
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white" />
   
   <!-- Cloud & Hosting -->
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-1F1F1F?logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white" />
