@@ -6,17 +6,20 @@
 
 <table>
 <tr>
-<td width="50%" valign="center">
+<td width="30%" valign="center">
 
-<a href="https://discord.com/users/443334508020891658"><img src="https://lanyard.cnrad.dev/api/443334508020891658?theme=dark&hideActivity=true" width="60%"></a>
+<a href="https://discord.com/users/443334508020891658"><img src="https://lanyard.cnrad.dev/api/443334508020891658?theme=dark&hideActivity=true"></a>
 
-<a href="https://discord.azael.dev/" target="_blank"><img alt="Discord Status" src="https://discord.com/api/guilds/628127171868885014/widget.png?style=banner2" width="60%"></a>
-
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=21r44vobnaogjj27qnfpr3kuq&redirect=true">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=21r44vobnaogjj27qnfpr3kuq&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark" width="60%">
-</a>
+<a href="https://discord.azael.dev/" target="_blank"><img alt="Discord Status" src="https://discord.com/api/guilds/628127171868885014/widget.png?style=banner3"></a>
 
 </td>
+
+<td width="20%" valign="center">
+
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=21r44vobnaogjj27qnfpr3kuq&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=21r44vobnaogjj27qnfpr3kuq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=true&bar_color=53b14f&bar_color_cover=false"></a>
+
+</td>
+
 <td width="50%" valign="center">
 
 <img alt="GIF" src="https://raw.githubusercontent.com/Azael-Dev/Azael-Dev/master/coding.gif" width="100%">
