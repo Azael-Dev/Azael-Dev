@@ -80,6 +80,7 @@
   <img src="https://img.shields.io/badge/FiveM-FF6F00?logo=rockstargames&logoColor=white" />
   <img src="https://img.shields.io/badge/RedM-8B0000?logo=rockstargames&logoColor=white" />
   <img src="https://img.shields.io/badge/alt:V-008736?logo=rockstargames&logoColor=white" />
+  <img src="https://img.shields.io/badge/RO-rAthena-416E98" />
   
   <!-- Desktop Development -->
   <img src="https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white" />
