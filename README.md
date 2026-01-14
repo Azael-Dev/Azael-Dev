@@ -39,7 +39,7 @@
   
   <!-- Markup & Styling -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white" />
   <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-0F172A?logo=tailwindcss&logoColor=38BDF8" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" />
