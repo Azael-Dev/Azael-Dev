@@ -10,7 +10,7 @@
 
 <a href="https://discord.com/users/443334508020891658"><img src="https://lanyard.cnrad.dev/api/443334508020891658?theme=dark&hideActivity=true"></a>
 
-<a href="https://discord.azael.dev/" target="_blank"><img alt="Discord Status" src="https://discord.com/api/guilds/628127171868885014/widget.png?style=banner3"></a>
+<a href="https://azael.dev/links/discord" target="_blank"><img alt="Discord Status" src="https://discord.com/api/guilds/628127171868885014/widget.png?style=banner3"></a>
 
 </td>
 
