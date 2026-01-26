@@ -87,8 +87,6 @@
   <!-- Development Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-1F1F1F?logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=black" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Laragon-0E83CD?logo=laragon&logoColor=white" />
   <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?logo=phpmyadmin&logoColor=white" />
