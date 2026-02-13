@@ -1,7 +1,10 @@
 # Hey there 👋
 
 <p align="left">
-  I'm <a href="https://www.azael.dev/" target="_blank">Azael Dev</a>, a Thai developer passionate about gaming and programming. While I'm still growing my skills, my enthusiasm keeps me constantly learning and improving.
+  I'm <a href="https://www.azael.dev/" target="_blank">Azael Dev</a>, a Thai Full-Stack Developer specializing in modern web technologies and 
+  game server development (<a href="https://fivem.net/" target="_blank">FiveM</a>/<a href="https://redm.net/" target="_blank">RedM</a>). 
+  I focus on building scalable systems, clean architectures, and immersive gameplay experiences. 
+  Currently deepening my knowledge in Advanced TypeScript and Cloud Architecture.
 </p>
 
 <table>
