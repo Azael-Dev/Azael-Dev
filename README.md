@@ -1,10 +1,7 @@
 # Hey there 👋
 
 <p align="left">
-  I'm <a href="https://www.azael.dev/" target="_blank">Azael Dev</a>, a Thai Full-Stack Developer specializing in modern web technologies and 
-  game server development (<a href="https://fivem.net/" target="_blank">FiveM</a>/<a href="https://redm.net/" target="_blank">RedM</a>). 
-  I focus on building scalable systems, clean architectures, and immersive gameplay experiences. 
-  Currently deepening my knowledge in Advanced TypeScript and Cloud Architecture.
+  I'm <a href="https://www.azael.dev/" target="_blank">Azael</a>, a Full-Stack Developer from Thailand specializing in modern web technologies and game server development. I create scalable applications and immersive multiplayer experiences on <a href="https://fivem.net/" target="_blank">FiveM</a> and <a href="https://redm.net/" target="_blank">RedM</a> platforms. Currently deepening my expertise in Advanced TypeScript and DevOps.
 </p>
 
 <table>
@@ -38,14 +35,11 @@
   <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/JavaScript-1F1F1F?logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white" />
 
   <!-- Frontend -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-0F172A?logo=tailwindcss&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/Markdown-1F1F1F?logo=markdown&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-1F1F1F?logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D" />
@@ -53,60 +47,43 @@
 
   <!-- Backend -->
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bun-1F1F1F?logo=bun&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-1F1F1F?logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Fastify-1F1F1F?logo=fastify&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_API-009688?logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white" />
 
   <!-- Database -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-023430?logo=mongodb&logoColor=4DB33D" />
-  <img src="https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" />
 
   <!-- Build Tools & Package Managers -->
   <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESBuild-FFCF00?logo=esbuild&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bun-1F1F1F?logo=bun&logoColor=white" />
   <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white" />
   <img src="https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=white" />
 
   <!-- DevOps & Deployment -->
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white" />
 
   <!-- Cloud & Hosting -->
   <img src="https://img.shields.io/badge/Vercel-1F1F1F?logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Pages-1F1F1F?logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white" />
 
   <!-- Development Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-1F1F1F?logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laragon-0E83CD?logo=laragon&logoColor=white" />
-  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?logo=phpmyadmin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visualstudiocode&logoColor=white" />
 
   <!-- Specialized Development -->
-  <img src="https://img.shields.io/badge/Discord_API-5865F2?logo=discord&logoColor=white" />
   <img src="https://img.shields.io/badge/Discord.js-1F1F1F?logo=discorddotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white" />
   <img src="https://img.shields.io/badge/Docusaurus-3ECC5F?logo=docusaurus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugo-FF4088?logo=hugo&logoColor=white" />
 
   <!-- Game Development -->
   <img src="https://img.shields.io/badge/FiveM-FF6F00?logo=rockstargames&logoColor=white" />
   <img src="https://img.shields.io/badge/RedM-8B0000?logo=rockstargames&logoColor=white" />
-  <img src="https://img.shields.io/badge/alt:V-008736?logo=rockstargames&logoColor=white" />
-  <img src="https://img.shields.io/badge/RO-rAthena-416E98" />
 
 </p>
 
