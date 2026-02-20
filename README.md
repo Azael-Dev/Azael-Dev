@@ -28,6 +28,10 @@
 </tr>
 </table>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Azael-Dev&color=FF6F00&style=flat-square&label=Profile+Views" />
+</p>
+
 ### Skills & Technologies
 
 <p align="left">
