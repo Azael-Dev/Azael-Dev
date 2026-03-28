@@ -32,65 +32,6 @@
   <img src="https://komarev.com/ghpvc/?username=Azael-Dev&color=FF6F00&style=flat-square&label=Profile+Views" />
 </p>
 
-### Skills & Technologies
-
-<p align="left">
-
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/JavaScript-1F1F1F?logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white" />
-
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/TailwindCSS-0F172A?logo=tailwindcss&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-1F1F1F?logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxt.js&logoColor=white" />
-
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fastify-1F1F1F?logo=fastify&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-009688?logo=fastapi&logoColor=white" />
-
-  <!-- Database -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-023430?logo=mongodb&logoColor=4DB33D" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" />
-
-  <!-- Build Tools & Package Managers -->
-  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bun-1F1F1F?logo=bun&logoColor=white" />
-  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=white" />
-
-  <!-- DevOps & Deployment -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white" />
-
-  <!-- Cloud & Hosting -->
-  <img src="https://img.shields.io/badge/Vercel-1F1F1F?logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white" />
-
-  <!-- Development Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-1F1F1F?logo=github&logoColor=white" />
-
-  <!-- Specialized Development -->
-  <img src="https://img.shields.io/badge/Discord.js-1F1F1F?logo=discorddotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docusaurus-3ECC5F?logo=docusaurus&logoColor=white" />
-
-  <!-- Game Development -->
-  <img src="https://img.shields.io/badge/FiveM-FF6F00?logo=rockstargames&logoColor=white" />
-  <img src="https://img.shields.io/badge/RedM-8B0000?logo=rockstargames&logoColor=white" />
-
-</p>
-
 ### Profile Statistics
 
 <a href="https://github.com/Azael-Dev">
