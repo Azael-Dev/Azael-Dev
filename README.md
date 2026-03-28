@@ -32,8 +32,6 @@
   <img src="https://komarev.com/ghpvc/?username=Azael-Dev&color=FF6F00&style=flat-square&label=Profile+Views" />
 </p>
 
-### GitHub Stats
-
 <a href="https://github.com/Azael-Dev">
   <img height="160" src="https://raw.githubusercontent.com/Azael-Dev/Azael-Dev/master/profile-summary-card-output/github_dark/0-profile-details.svg"/>
   <img height="160" src="https://raw.githubusercontent.com/Azael-Dev/Azael-Dev/master/profile-summary-card-output/github_dark/3-stats.svg"/>
