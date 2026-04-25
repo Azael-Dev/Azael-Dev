@@ -1,7 +1,12 @@
 # Hey there 👋
 
 <p align="left">
-  I'm <a href="https://www.azael.dev/" target="_blank">Azael</a>, a developer from Thailand focused on web development and game servers. I enjoy building practical solutions through hands-on experience, especially within the <a href="https://fivem.net/" target="_blank">FiveM</a> and <a href="https://redm.net/" target="_blank">RedM</a> ecosystem. I'm currently expanding my skills in TypeScript and DevOps.
+Hi, I'm <a href="https://www.azael.dev/" target="_blank">Azael</a> — a developer from Thailand<br>
+I specialize in web development and game server systems, focusing on building practical, real-world solutions.<br>
+
+I enjoy learning by doing and continuously improving through hands-on experience.<br>
+Most of my work revolves around the <a href="https://fivem.net/" target="_blank">FiveM</a> and <a href="https://redm.net/" target="_blank">RedM</a> ecosystem,<br>
+where I develop scripts, and systems to enhance server functionality and player experience.
 </p>
 
 <table>
