@@ -34,7 +34,7 @@ where I develop scripts, and systems to enhance server functionality and player 
 </table>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Azael-Dev&color=FF6F00&style=flat-square&label=Profile+Views" />
+  ![](https://komarev.com/ghpvc/?username=Azael-Dev&label=PROFILE+VIEWS)
 </p>
 
 <a href="https://github.com/Azael-Dev">
